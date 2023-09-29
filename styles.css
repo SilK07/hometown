@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    width: 100px;
+}
+
+#hero {
+    background-image: url("images/ghaz.jpg");
+    background-size: cover;
+    padding: 100px;
+}   
+
+.heading{
+    background-color: skyblue;
+    width: 150px;
+    height: 40px;
+}
